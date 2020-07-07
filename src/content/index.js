@@ -3,10 +3,12 @@ import App from "./App/App.vue";
 import insert from "@/utils/insert";
 import stroe from "@/mixins/store";
 
+// 注入js到页面
 injectJS();
 
 Vue.mixin(stroe);
 
+// 插入组件到页面中
 insert(App);
 
 function injectJS() {
