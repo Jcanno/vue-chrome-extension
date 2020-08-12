@@ -1,5 +1,5 @@
 import Vue from "vue";
-import App from "./App/App.vue";
+import App from "./components/App.vue";
 import insert from "@/utils/insert";
 import stroe from "@/mixins/store";
 
