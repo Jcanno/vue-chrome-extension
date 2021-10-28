@@ -1,5 +1,7 @@
 # vue-chrome-extension
 
+推荐使用脚手架工具[create-crx-app](https://github.com/Jcanno/create-crx-app)快速生成插件项目，支持React/Vue
+
 ## 模块安装
 ```
 npm install
